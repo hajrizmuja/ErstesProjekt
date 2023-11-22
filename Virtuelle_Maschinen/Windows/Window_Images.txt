@@ -1,0 +1,2 @@
+A Windows image file is a file that contains the Windows operating system, the data present 
+on your hard drive, and other executables.
