@@ -1,0 +1,4 @@
+Images are built from a model assertion using ubuntu-image, 
+a tool to generate a bootable image. 
+It can be installed on a snap-supporting Linux system as follows: 
+sudo snap install ubuntu-image --classic.
